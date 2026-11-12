@@ -1,0 +1,15 @@
+C:\Users\s38122\KlasyIObiekty\bin\Debug\net10.0\KlasyIObiekty.exe
+C:\Users\s38122\KlasyIObiekty\bin\Debug\net10.0\KlasyIObiekty.deps.json
+C:\Users\s38122\KlasyIObiekty\bin\Debug\net10.0\KlasyIObiekty.runtimeconfig.json
+C:\Users\s38122\KlasyIObiekty\bin\Debug\net10.0\KlasyIObiekty.dll
+C:\Users\s38122\KlasyIObiekty\bin\Debug\net10.0\KlasyIObiekty.pdb
+C:\Users\s38122\KlasyIObiekty\obj\Debug\net10.0\KlasyIObiekty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s38122\KlasyIObiekty\obj\Debug\net10.0\KlasyIObiekty.AssemblyInfoInputs.cache
+C:\Users\s38122\KlasyIObiekty\obj\Debug\net10.0\KlasyIObiekty.AssemblyInfo.cs
+C:\Users\s38122\KlasyIObiekty\obj\Debug\net10.0\KlasyIObiekty.csproj.CoreCompileInputs.cache
+C:\Users\s38122\KlasyIObiekty\obj\Debug\net10.0\KlasyIObiekty.sourcelink.json
+C:\Users\s38122\KlasyIObiekty\obj\Debug\net10.0\KlasyIObiekty.dll
+C:\Users\s38122\KlasyIObiekty\obj\Debug\net10.0\refint\KlasyIObiekty.dll
+C:\Users\s38122\KlasyIObiekty\obj\Debug\net10.0\KlasyIObiekty.pdb
+C:\Users\s38122\KlasyIObiekty\obj\Debug\net10.0\KlasyIObiekty.genruntimeconfig.cache
+C:\Users\s38122\KlasyIObiekty\obj\Debug\net10.0\ref\KlasyIObiekty.dll
